@@ -12,5 +12,9 @@ public class VersionLogger {
   public func versionInfo()
   public func getCategories(completion: @escaping (Swift.String, (any Swift.Error)?) -> Swift.Void)
   public func printCustomEncoding()
+  public func createDB(schemaVersion: Swift.UInt64) throws
+  public func addUser(name: Swift.String) throws
+  public func getUser() -> [Swift.String]
+  public func deleteAll() throws
   @objc deinit
 }
