@@ -29,14 +29,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			QHBr7hw25Iqfzo11hBzu2gLoe7qs94CbCsc3uEE7tBo=
+			3hY8zw8o8k2fQcMNy1jVkRrJxmG9EPTK1/p7JvL2LDM=
 			</data>
 		</dict>
 		<key>Modules/DataFramework.swiftmodule/arm64-apple-macos.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			y7k4gkXcSuYSW75CJeuiZIFDZAEt1A9SM7zARUsb95w=
+			ynBYtlDobYAEYLoU7uSWhMPeEYK0vwptCKZHCedIL6I=
 			</data>
 		</dict>
 		<key>Modules/DataFramework.swiftmodule/arm64-apple-macos.swiftdoc</key>
@@ -50,28 +50,28 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			y7k4gkXcSuYSW75CJeuiZIFDZAEt1A9SM7zARUsb95w=
+			ynBYtlDobYAEYLoU7uSWhMPeEYK0vwptCKZHCedIL6I=
 			</data>
 		</dict>
 		<key>Modules/DataFramework.swiftmodule/arm64-apple-macos.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			3l0NgbPRKSK1t/GzlMappTZej+GNZGZxfSZcErHiFpY=
+			uSAcf/Ur7ee5Pwim7Itx6Ydir7v8t4aid2x0UGARCX8=
 			</data>
 		</dict>
 		<key>Modules/DataFramework.swiftmodule/x86_64-apple-macos.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			QHBr7hw25Iqfzo11hBzu2gLoe7qs94CbCsc3uEE7tBo=
+			3hY8zw8o8k2fQcMNy1jVkRrJxmG9EPTK1/p7JvL2LDM=
 			</data>
 		</dict>
 		<key>Modules/DataFramework.swiftmodule/x86_64-apple-macos.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			Q6CSMXId1XGB+uFG3zHICQMmz7Q1L12FLQ78lBmAghk=
+			bMgZATq6UhtUzLBgcTXIAjcSJGC1y9vkA3yM8bYOoyk=
 			</data>
 		</dict>
 		<key>Modules/DataFramework.swiftmodule/x86_64-apple-macos.swiftdoc</key>
@@ -85,14 +85,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			Q6CSMXId1XGB+uFG3zHICQMmz7Q1L12FLQ78lBmAghk=
+			bMgZATq6UhtUzLBgcTXIAjcSJGC1y9vkA3yM8bYOoyk=
 			</data>
 		</dict>
 		<key>Modules/DataFramework.swiftmodule/x86_64-apple-macos.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			M6cgZ0DHdA4b4VsB+bU6jcXVmBvQVDWihDL63fcLTD0=
+			yC76SwP1ZXiEIlsUawZ0b678RkNDOx0LLoP/azr/X3o=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>

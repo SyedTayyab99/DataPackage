@@ -17,6 +17,7 @@ let package = Package(
             targets: ["DataFramework"]),
     ],
     targets: [
+        .target(name: "DataPackage"),
         .binaryTarget(name: "DataFramework", path: "frameworks/DataFramework.xcframework")
     ]
 )

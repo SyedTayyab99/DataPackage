@@ -23,9 +23,30 @@
       },
       {
         "kind": "TypeDecl",
-        "name": "DataFramework",
-        "printedName": "DataFramework",
+        "name": "VersionLogger",
+        "printedName": "VersionLogger",
         "children": [
+          {
+            "kind": "Constructor",
+            "name": "init",
+            "printedName": "init()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "VersionLogger",
+                "printedName": "DataFramework.VersionLogger",
+                "usr": "s:13DataFramework13VersionLoggerC"
+              }
+            ],
+            "declKind": "Constructor",
+            "usr": "s:13DataFramework13VersionLoggerCACycfc",
+            "mangledName": "$s13DataFramework13VersionLoggerCACycfc",
+            "moduleName": "DataFramework",
+            "declAttributes": [
+              "AccessControl"
+            ],
+            "init_kind": "Designated"
+          },
           {
             "kind": "Function",
             "name": "versionInfo",
@@ -38,8 +59,8 @@
               }
             ],
             "declKind": "Func",
-            "usr": "s:13DataFrameworkAAC11versionInfoyyF",
-            "mangledName": "$s13DataFrameworkAAC11versionInfoyyF",
+            "usr": "s:13DataFramework13VersionLoggerC11versionInfoyyF",
+            "mangledName": "$s13DataFramework13VersionLoggerC11versionInfoyyF",
             "moduleName": "DataFramework",
             "declAttributes": [
               "AccessControl"
@@ -48,13 +69,12 @@
           }
         ],
         "declKind": "Class",
-        "usr": "s:13DataFrameworkAAC",
-        "mangledName": "$s13DataFrameworkAAC",
+        "usr": "s:13DataFramework13VersionLoggerC",
+        "mangledName": "$s13DataFramework13VersionLoggerC",
         "moduleName": "DataFramework",
         "declAttributes": [
           "AccessControl"
-        ],
-        "hasMissingDesignatedInitializers": true
+        ]
       }
     ],
     "json_format_version": 8
@@ -63,98 +83,98 @@
     {
       "filePath": "\/Users\/mansoor\/development\/ios\/techtix\/Framework Packaging Testing\/DataFramework\/DataFramework\/DataFramework.swift",
       "kind": "StringLiteral",
-      "offset": 229,
+      "offset": 269,
       "length": 17,
       "value": "\"CFBundleVersion\""
     },
     {
       "filePath": "\/Users\/mansoor\/development\/ios\/techtix\/Framework Packaging Testing\/DataFramework\/DataFramework\/DataFramework.swift",
       "kind": "StringLiteral",
-      "offset": 263,
+      "offset": 303,
       "length": 4,
       "value": "\"--\""
     },
     {
       "filePath": "\/Users\/mansoor\/development\/ios\/techtix\/Framework Packaging Testing\/DataFramework\/DataFramework\/DataFramework.swift",
       "kind": "StringLiteral",
-      "offset": 314,
+      "offset": 354,
       "length": 28,
       "value": "\"CFBundleShortVersionString\""
     },
     {
       "filePath": "\/Users\/mansoor\/development\/ios\/techtix\/Framework Packaging Testing\/DataFramework\/DataFramework\/DataFramework.swift",
       "kind": "StringLiteral",
-      "offset": 359,
+      "offset": 399,
       "length": 4,
       "value": "\"--\""
     },
     {
       "filePath": "\/Users\/mansoor\/development\/ios\/techtix\/Framework Packaging Testing\/DataFramework\/DataFramework\/DataFramework.swift",
       "kind": "StringLiteral",
-      "offset": 387,
+      "offset": 427,
       "length": 55,
       "value": "\"DataFramework => Version: \""
     },
     {
       "filePath": "\/Users\/mansoor\/development\/ios\/techtix\/Framework Packaging Testing\/DataFramework\/DataFramework\/DataFramework.swift",
       "kind": "StringLiteral",
-      "offset": 424,
+      "offset": 464,
       "length": 1,
       "value": "\", Build: \""
     },
     {
       "filePath": "\/Users\/mansoor\/development\/ios\/techtix\/Framework Packaging Testing\/DataFramework\/DataFramework\/DataFramework.swift",
       "kind": "StringLiteral",
-      "offset": 441,
+      "offset": 481,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/mansoor\/development\/ios\/techtix\/Framework Packaging Testing\/DataFramework\/DataFramework\/DataFramework.swift",
       "kind": "StringLiteral",
-      "offset": 568,
+      "offset": 608,
       "length": 17,
       "value": "\"CFBundleVersion\""
     },
     {
       "filePath": "\/Users\/mansoor\/development\/ios\/techtix\/Framework Packaging Testing\/DataFramework\/DataFramework\/DataFramework.swift",
       "kind": "StringLiteral",
-      "offset": 602,
+      "offset": 642,
       "length": 4,
       "value": "\"--\""
     },
     {
       "filePath": "\/Users\/mansoor\/development\/ios\/techtix\/Framework Packaging Testing\/DataFramework\/DataFramework\/DataFramework.swift",
       "kind": "StringLiteral",
-      "offset": 663,
+      "offset": 703,
       "length": 28,
       "value": "\"CFBundleShortVersionString\""
     },
     {
       "filePath": "\/Users\/mansoor\/development\/ios\/techtix\/Framework Packaging Testing\/DataFramework\/DataFramework\/DataFramework.swift",
       "kind": "StringLiteral",
-      "offset": 708,
+      "offset": 748,
       "length": 4,
       "value": "\"--\""
     },
     {
       "filePath": "\/Users\/mansoor\/development\/ios\/techtix\/Framework Packaging Testing\/DataFramework\/DataFramework\/DataFramework.swift",
       "kind": "StringLiteral",
-      "offset": 727,
+      "offset": 767,
       "length": 61,
       "value": "\"AlamoFire => Version: \""
     },
     {
       "filePath": "\/Users\/mansoor\/development\/ios\/techtix\/Framework Packaging Testing\/DataFramework\/DataFramework\/DataFramework.swift",
       "kind": "StringLiteral",
-      "offset": 765,
+      "offset": 805,
       "length": 1,
       "value": "\", Build: \""
     },
     {
       "filePath": "\/Users\/mansoor\/development\/ios\/techtix\/Framework Packaging Testing\/DataFramework\/DataFramework\/DataFramework.swift",
       "kind": "StringLiteral",
-      "offset": 787,
+      "offset": 827,
       "length": 2,
       "value": "\"\""
     }

@@ -7,7 +7,8 @@ import Foundation
 import Swift
 import _Concurrency
 import _StringProcessing
-@_hasMissingDesignatedInitializers public class DataFramework {
+public class VersionLogger {
+  public init()
   public func versionInfo()
   @objc deinit
 }
