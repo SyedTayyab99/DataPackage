@@ -11,24 +11,6 @@
 	</dict>
 	<key>files2</key>
 	<dict>
-		<key>Frameworks/Realm.framework</key>
-		<dict>
-			<key>cdhash</key>
-			<data>
-			25MDHZyTfllyR8ozoPps0En/aEQ=
-			</data>
-			<key>requirement</key>
-			<string>cdhash H"db93031d9c937e597247ca33a0fa6cd049ff6844" or cdhash H"672f57050d1c7b153067322f48ac1a0c3a328b2e"</string>
-		</dict>
-		<key>Frameworks/RealmSwift.framework</key>
-		<dict>
-			<key>cdhash</key>
-			<data>
-			aK5JZv7kYhCTFdPb9qcqnGLPzT0=
-			</data>
-			<key>requirement</key>
-			<string>cdhash H"68ae4966fee462109315d3dbf6a72a9c62cfcd3d" or cdhash H"49b667f676f3bf01d7d65ad86de18206789264fb"</string>
-		</dict>
 		<key>Headers/DataFramework-Swift.h</key>
 		<dict>
 			<key>hash2</key>
@@ -47,14 +29,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			TlfZk0DPKhdQK0cY/xfqic/ekC40OFrtecP/lBOb9e4=
+			QHBr7hw25Iqfzo11hBzu2gLoe7qs94CbCsc3uEE7tBo=
 			</data>
 		</dict>
 		<key>Modules/DataFramework.swiftmodule/arm64-apple-macos.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			uGn1cUTOzXGcCSNsB8Y+/fSRgAJ3/GMistB3aLYogr0=
+			y7k4gkXcSuYSW75CJeuiZIFDZAEt1A9SM7zARUsb95w=
 			</data>
 		</dict>
 		<key>Modules/DataFramework.swiftmodule/arm64-apple-macos.swiftdoc</key>
@@ -68,28 +50,28 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			uGn1cUTOzXGcCSNsB8Y+/fSRgAJ3/GMistB3aLYogr0=
+			y7k4gkXcSuYSW75CJeuiZIFDZAEt1A9SM7zARUsb95w=
 			</data>
 		</dict>
 		<key>Modules/DataFramework.swiftmodule/arm64-apple-macos.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			eXiDr5fUgCmD6LEm8xyspzLmcwr3e3lRT3t2tgoPUYk=
+			3l0NgbPRKSK1t/GzlMappTZej+GNZGZxfSZcErHiFpY=
 			</data>
 		</dict>
 		<key>Modules/DataFramework.swiftmodule/x86_64-apple-macos.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			TlfZk0DPKhdQK0cY/xfqic/ekC40OFrtecP/lBOb9e4=
+			QHBr7hw25Iqfzo11hBzu2gLoe7qs94CbCsc3uEE7tBo=
 			</data>
 		</dict>
 		<key>Modules/DataFramework.swiftmodule/x86_64-apple-macos.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			Vo3/MCYY8MyCSABSH11UgZ+c9GX0q5q/1NBzjBXYSAI=
+			Q6CSMXId1XGB+uFG3zHICQMmz7Q1L12FLQ78lBmAghk=
 			</data>
 		</dict>
 		<key>Modules/DataFramework.swiftmodule/x86_64-apple-macos.swiftdoc</key>
@@ -103,14 +85,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			Vo3/MCYY8MyCSABSH11UgZ+c9GX0q5q/1NBzjBXYSAI=
+			Q6CSMXId1XGB+uFG3zHICQMmz7Q1L12FLQ78lBmAghk=
 			</data>
 		</dict>
 		<key>Modules/DataFramework.swiftmodule/x86_64-apple-macos.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			FgM0gEmr4h3slV2EWDxs4Tz55O6j9ZFzAwoBPguyQS0=
+			M6cgZ0DHdA4b4VsB+bU6jcXVmBvQVDWihDL63fcLTD0=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>

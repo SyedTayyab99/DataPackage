@@ -4,8 +4,6 @@
 // swift-module-flags-ignorable: -enable-bare-slash-regex
 @_exported import DataFramework
 import Foundation
-import Realm
-import RealmSwift
 import Swift
 import _Concurrency
 import _StringProcessing
