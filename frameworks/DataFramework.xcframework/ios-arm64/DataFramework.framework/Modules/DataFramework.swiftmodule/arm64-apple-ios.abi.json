@@ -1,0 +1,215 @@
+{
+  "ABIRoot": {
+    "kind": "Root",
+    "name": "TopLevel",
+    "printedName": "TopLevel",
+    "children": [
+      {
+        "kind": "Import",
+        "name": "RealmSwift",
+        "printedName": "RealmSwift",
+        "declKind": "Import",
+        "moduleName": "DataFramework"
+      },
+      {
+        "kind": "Import",
+        "name": "Realm",
+        "printedName": "Realm",
+        "declKind": "Import",
+        "moduleName": "DataFramework"
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "DataFramework"
+      },
+      {
+        "kind": "TypeDecl",
+        "name": "DataFramework",
+        "printedName": "DataFramework",
+        "children": [
+          {
+            "kind": "Function",
+            "name": "versionInfo",
+            "printedName": "versionInfo()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:13DataFrameworkAAC11versionInfoyyF",
+            "mangledName": "$s13DataFrameworkAAC11versionInfoyyF",
+            "moduleName": "DataFramework",
+            "declAttributes": [
+              "AccessControl"
+            ],
+            "funcSelfKind": "NonMutating"
+          }
+        ],
+        "declKind": "Class",
+        "usr": "s:13DataFrameworkAAC",
+        "mangledName": "$s13DataFrameworkAAC",
+        "moduleName": "DataFramework",
+        "declAttributes": [
+          "AccessControl"
+        ],
+        "hasMissingDesignatedInitializers": true
+      }
+    ],
+    "json_format_version": 8
+  },
+  "ConstValues": [
+    {
+      "filePath": "\/Users\/mansoor\/development\/ios\/techtix\/Framework Packaging Testing\/DataFramework\/DataFramework\/DataFramework.swift",
+      "kind": "StringLiteral",
+      "offset": 222,
+      "length": 17,
+      "value": "\"CFBundleVersion\""
+    },
+    {
+      "filePath": "\/Users\/mansoor\/development\/ios\/techtix\/Framework Packaging Testing\/DataFramework\/DataFramework\/DataFramework.swift",
+      "kind": "StringLiteral",
+      "offset": 256,
+      "length": 4,
+      "value": "\"--\""
+    },
+    {
+      "filePath": "\/Users\/mansoor\/development\/ios\/techtix\/Framework Packaging Testing\/DataFramework\/DataFramework\/DataFramework.swift",
+      "kind": "StringLiteral",
+      "offset": 307,
+      "length": 28,
+      "value": "\"CFBundleShortVersionString\""
+    },
+    {
+      "filePath": "\/Users\/mansoor\/development\/ios\/techtix\/Framework Packaging Testing\/DataFramework\/DataFramework\/DataFramework.swift",
+      "kind": "StringLiteral",
+      "offset": 352,
+      "length": 4,
+      "value": "\"--\""
+    },
+    {
+      "filePath": "\/Users\/mansoor\/development\/ios\/techtix\/Framework Packaging Testing\/DataFramework\/DataFramework\/DataFramework.swift",
+      "kind": "StringLiteral",
+      "offset": 380,
+      "length": 55,
+      "value": "\"DataFramework => Version: \""
+    },
+    {
+      "filePath": "\/Users\/mansoor\/development\/ios\/techtix\/Framework Packaging Testing\/DataFramework\/DataFramework\/DataFramework.swift",
+      "kind": "StringLiteral",
+      "offset": 417,
+      "length": 1,
+      "value": "\", Build: \""
+    },
+    {
+      "filePath": "\/Users\/mansoor\/development\/ios\/techtix\/Framework Packaging Testing\/DataFramework\/DataFramework\/DataFramework.swift",
+      "kind": "StringLiteral",
+      "offset": 434,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/mansoor\/development\/ios\/techtix\/Framework Packaging Testing\/DataFramework\/DataFramework\/DataFramework.swift",
+      "kind": "StringLiteral",
+      "offset": 560,
+      "length": 17,
+      "value": "\"CFBundleVersion\""
+    },
+    {
+      "filePath": "\/Users\/mansoor\/development\/ios\/techtix\/Framework Packaging Testing\/DataFramework\/DataFramework\/DataFramework.swift",
+      "kind": "StringLiteral",
+      "offset": 594,
+      "length": 4,
+      "value": "\"--\""
+    },
+    {
+      "filePath": "\/Users\/mansoor\/development\/ios\/techtix\/Framework Packaging Testing\/DataFramework\/DataFramework\/DataFramework.swift",
+      "kind": "StringLiteral",
+      "offset": 655,
+      "length": 28,
+      "value": "\"CFBundleShortVersionString\""
+    },
+    {
+      "filePath": "\/Users\/mansoor\/development\/ios\/techtix\/Framework Packaging Testing\/DataFramework\/DataFramework\/DataFramework.swift",
+      "kind": "StringLiteral",
+      "offset": 700,
+      "length": 4,
+      "value": "\"--\""
+    },
+    {
+      "filePath": "\/Users\/mansoor\/development\/ios\/techtix\/Framework Packaging Testing\/DataFramework\/DataFramework\/DataFramework.swift",
+      "kind": "StringLiteral",
+      "offset": 719,
+      "length": 57,
+      "value": "\"Realm => Version: \""
+    },
+    {
+      "filePath": "\/Users\/mansoor\/development\/ios\/techtix\/Framework Packaging Testing\/DataFramework\/DataFramework\/DataFramework.swift",
+      "kind": "StringLiteral",
+      "offset": 753,
+      "length": 1,
+      "value": "\", Build: \""
+    },
+    {
+      "filePath": "\/Users\/mansoor\/development\/ios\/techtix\/Framework Packaging Testing\/DataFramework\/DataFramework\/DataFramework.swift",
+      "kind": "StringLiteral",
+      "offset": 775,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/mansoor\/development\/ios\/techtix\/Framework Packaging Testing\/DataFramework\/DataFramework\/DataFramework.swift",
+      "kind": "StringLiteral",
+      "offset": 917,
+      "length": 17,
+      "value": "\"CFBundleVersion\""
+    },
+    {
+      "filePath": "\/Users\/mansoor\/development\/ios\/techtix\/Framework Packaging Testing\/DataFramework\/DataFramework\/DataFramework.swift",
+      "kind": "StringLiteral",
+      "offset": 951,
+      "length": 4,
+      "value": "\"--\""
+    },
+    {
+      "filePath": "\/Users\/mansoor\/development\/ios\/techtix\/Framework Packaging Testing\/DataFramework\/DataFramework\/DataFramework.swift",
+      "kind": "StringLiteral",
+      "offset": 1022,
+      "length": 28,
+      "value": "\"CFBundleShortVersionString\""
+    },
+    {
+      "filePath": "\/Users\/mansoor\/development\/ios\/techtix\/Framework Packaging Testing\/DataFramework\/DataFramework\/DataFramework.swift",
+      "kind": "StringLiteral",
+      "offset": 1067,
+      "length": 4,
+      "value": "\"--\""
+    },
+    {
+      "filePath": "\/Users\/mansoor\/development\/ios\/techtix\/Framework Packaging Testing\/DataFramework\/DataFramework\/DataFramework.swift",
+      "kind": "StringLiteral",
+      "offset": 1086,
+      "length": 67,
+      "value": "\"Realm => Version: \""
+    },
+    {
+      "filePath": "\/Users\/mansoor\/development\/ios\/techtix\/Framework Packaging Testing\/DataFramework\/DataFramework\/DataFramework.swift",
+      "kind": "StringLiteral",
+      "offset": 1125,
+      "length": 1,
+      "value": "\", Build: \""
+    },
+    {
+      "filePath": "\/Users\/mansoor\/development\/ios\/techtix\/Framework Packaging Testing\/DataFramework\/DataFramework\/DataFramework.swift",
+      "kind": "StringLiteral",
+      "offset": 1152,
+      "length": 2,
+      "value": "\"\""
+    }
+  ]
+}
