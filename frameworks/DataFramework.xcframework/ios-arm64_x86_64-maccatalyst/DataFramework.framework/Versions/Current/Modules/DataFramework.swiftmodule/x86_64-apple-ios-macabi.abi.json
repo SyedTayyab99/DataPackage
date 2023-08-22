@@ -1,0 +1,261 @@
+{
+  "ABIRoot": {
+    "kind": "Root",
+    "name": "TopLevel",
+    "printedName": "TopLevel",
+    "children": [
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "DataFramework"
+      },
+      {
+        "kind": "Import",
+        "name": "RealmSwift",
+        "printedName": "RealmSwift",
+        "declKind": "Import",
+        "moduleName": "DataFramework",
+        "declAttributes": [
+          "ImplementationOnly"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Realm",
+        "printedName": "Realm",
+        "declKind": "Import",
+        "moduleName": "DataFramework",
+        "declAttributes": [
+          "ImplementationOnly"
+        ]
+      },
+      {
+        "kind": "TypeDecl",
+        "name": "VersionLogger",
+        "printedName": "VersionLogger",
+        "children": [
+          {
+            "kind": "Constructor",
+            "name": "init",
+            "printedName": "init()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "VersionLogger",
+                "printedName": "DataFramework.VersionLogger",
+                "usr": "s:13DataFramework13VersionLoggerC"
+              }
+            ],
+            "declKind": "Constructor",
+            "usr": "s:13DataFramework13VersionLoggerCACycfc",
+            "mangledName": "$s13DataFramework13VersionLoggerCACycfc",
+            "moduleName": "DataFramework",
+            "declAttributes": [
+              "AccessControl"
+            ],
+            "init_kind": "Designated"
+          },
+          {
+            "kind": "Function",
+            "name": "versionInfo",
+            "printedName": "versionInfo()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:13DataFramework13VersionLoggerC11versionInfoyyF",
+            "mangledName": "$s13DataFramework13VersionLoggerC11versionInfoyyF",
+            "moduleName": "DataFramework",
+            "declAttributes": [
+              "AccessControl"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "createDB",
+            "printedName": "createDB(schemaVersion:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "UInt64",
+                "printedName": "Swift.UInt64",
+                "usr": "s:s6UInt64V"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:13DataFramework13VersionLoggerC8createDB06schemaC0ys6UInt64V_tKF",
+            "mangledName": "$s13DataFramework13VersionLoggerC8createDB06schemaC0ys6UInt64V_tKF",
+            "moduleName": "DataFramework",
+            "declAttributes": [
+              "AccessControl"
+            ],
+            "throwing": true,
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "addUser",
+            "printedName": "addUser(name:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:13DataFramework13VersionLoggerC7addUser4nameySS_tKF",
+            "mangledName": "$s13DataFramework13VersionLoggerC7addUser4nameySS_tKF",
+            "moduleName": "DataFramework",
+            "declAttributes": [
+              "AccessControl"
+            ],
+            "throwing": true,
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "getUser",
+            "printedName": "getUser()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Array",
+                "printedName": "[Swift.String]",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "usr": "s:Sa"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:13DataFramework13VersionLoggerC7getUserSaySSGyF",
+            "mangledName": "$s13DataFramework13VersionLoggerC7getUserSaySSGyF",
+            "moduleName": "DataFramework",
+            "declAttributes": [
+              "AccessControl"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "deleteAll",
+            "printedName": "deleteAll()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:13DataFramework13VersionLoggerC9deleteAllyyKF",
+            "mangledName": "$s13DataFramework13VersionLoggerC9deleteAllyyKF",
+            "moduleName": "DataFramework",
+            "declAttributes": [
+              "AccessControl"
+            ],
+            "throwing": true,
+            "funcSelfKind": "NonMutating"
+          }
+        ],
+        "declKind": "Class",
+        "usr": "s:13DataFramework13VersionLoggerC",
+        "mangledName": "$s13DataFramework13VersionLoggerC",
+        "moduleName": "DataFramework",
+        "declAttributes": [
+          "AccessControl"
+        ]
+      }
+    ],
+    "json_format_version": 8
+  },
+  "ConstValues": [
+    {
+      "filePath": "\/Users\/mansoor\/development\/ios\/techtix\/Framework Packaging Testing\/DataFramework\/DataFramework\/DataFramework.swift",
+      "kind": "StringLiteral",
+      "offset": 331,
+      "length": 17,
+      "value": "\"CFBundleVersion\""
+    },
+    {
+      "filePath": "\/Users\/mansoor\/development\/ios\/techtix\/Framework Packaging Testing\/DataFramework\/DataFramework\/DataFramework.swift",
+      "kind": "StringLiteral",
+      "offset": 365,
+      "length": 4,
+      "value": "\"--\""
+    },
+    {
+      "filePath": "\/Users\/mansoor\/development\/ios\/techtix\/Framework Packaging Testing\/DataFramework\/DataFramework\/DataFramework.swift",
+      "kind": "StringLiteral",
+      "offset": 416,
+      "length": 28,
+      "value": "\"CFBundleShortVersionString\""
+    },
+    {
+      "filePath": "\/Users\/mansoor\/development\/ios\/techtix\/Framework Packaging Testing\/DataFramework\/DataFramework\/DataFramework.swift",
+      "kind": "StringLiteral",
+      "offset": 461,
+      "length": 4,
+      "value": "\"--\""
+    },
+    {
+      "filePath": "\/Users\/mansoor\/development\/ios\/techtix\/Framework Packaging Testing\/DataFramework\/DataFramework\/DataFramework.swift",
+      "kind": "StringLiteral",
+      "offset": 480,
+      "length": 55,
+      "value": "\"DataFramework => Version: \""
+    },
+    {
+      "filePath": "\/Users\/mansoor\/development\/ios\/techtix\/Framework Packaging Testing\/DataFramework\/DataFramework\/DataFramework.swift",
+      "kind": "StringLiteral",
+      "offset": 517,
+      "length": 1,
+      "value": "\", Build: \""
+    },
+    {
+      "filePath": "\/Users\/mansoor\/development\/ios\/techtix\/Framework Packaging Testing\/DataFramework\/DataFramework\/DataFramework.swift",
+      "kind": "StringLiteral",
+      "offset": 534,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/mansoor\/development\/ios\/techtix\/Framework Packaging Testing\/DataFramework\/DataFramework\/DataFramework.swift",
+      "kind": "StringLiteral",
+      "offset": 560,
+      "length": 29,
+      "value": "\"AlamoFire => Version: 5.7.1\""
+    },
+    {
+      "filePath": "\/Users\/mansoor\/development\/ios\/techtix\/Framework Packaging Testing\/DataFramework\/DataFramework\/DataFramework.swift",
+      "kind": "StringLiteral",
+      "offset": 1233,
+      "length": 2,
+      "value": "\"\""
+    }
+  ]
+}

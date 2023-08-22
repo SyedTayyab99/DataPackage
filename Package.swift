@@ -13,11 +13,17 @@ let package = Package(
     ],
     products: [
         .library(
-            name: "DataFramework",
-            targets: ["DataFramework"]),
+            name: "DataPackage",
+            targets: ["DataPackage"]),
+    ],
+    dependencies: [
+        .package(url: "https://github.com/realm/realm-swift", exact: Version("10.42.0"))
     ],
     targets: [
-        .target(name: "DataPackage"),
-        .binaryTarget(name: "DataFramework", path: "frameworks/DataFramework.xcframework")
+        .binaryTarget(name: "DataFramework", path: "frameworks/DataFramework.xcframework"),
+        .target(
+            name: "DataPackage",
+            dependencies: ["DataFramework", .product(name: "RealmSwift", package: "realm-swift")]),
+        
     ]
 )

@@ -4,38 +4,6 @@
 <dict>
 	<key>files</key>
 	<dict>
-		<key>Frameworks/Realm.framework/CHANGELOG.md</key>
-		<data>
-		6wl8WGoaM9KWDMxWprgEe/WgkKY=
-		</data>
-		<key>Frameworks/Realm.framework/Info.plist</key>
-		<data>
-		9DFyvwMqFmBBEah325dMnfQxZlE=
-		</data>
-		<key>Frameworks/Realm.framework/LICENSE</key>
-		<data>
-		htlQ0eA7QbvmaoSv/b3yVb0Yvsc=
-		</data>
-		<key>Frameworks/Realm.framework/Realm</key>
-		<data>
-		2TD8rCMuypAyqCv/jhHkVgPN3z4=
-		</data>
-		<key>Frameworks/Realm.framework/_CodeSignature/CodeResources</key>
-		<data>
-		63y/IiVUSwlo32m9Ze1uhGG15Yk=
-		</data>
-		<key>Frameworks/RealmSwift.framework/Info.plist</key>
-		<data>
-		yA7yP3DmVYiWvQVjwSHPRXjZFAY=
-		</data>
-		<key>Frameworks/RealmSwift.framework/RealmSwift</key>
-		<data>
-		3gl0goFfkjSVdSFYh1E0WF2AAxI=
-		</data>
-		<key>Frameworks/RealmSwift.framework/_CodeSignature/CodeResources</key>
-		<data>
-		OjnwZZR2Tq8UWL5WRHKvviq+Zp4=
-		</data>
 		<key>Headers/DataFramework-Swift.h</key>
 		<data>
 		+wPkuWNcOeIDDzn3qK5gQKPQ2LQ=
@@ -50,11 +18,11 @@
 		</data>
 		<key>Modules/DataFramework.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
-		P4mS2jqZZZqIBBQ8ET0KaaVq0HI=
+		sZhw4NhdgM2pw88cx6OmBDTpCKM=
 		</data>
 		<key>Modules/DataFramework.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		gBu16fh3+s67RFW9x+YY+DdpxNM=
+		kK6UG/Dsa6LuBL9ueXJl582KwLc=
 		</data>
 		<key>Modules/DataFramework.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<data>
@@ -62,19 +30,19 @@
 		</data>
 		<key>Modules/DataFramework.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		gBu16fh3+s67RFW9x+YY+DdpxNM=
+		kK6UG/Dsa6LuBL9ueXJl582KwLc=
 		</data>
 		<key>Modules/DataFramework.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		/ntMrElQh17fpIdi+pzU6R6yiu8=
+		WksTao+uU+8i3iENPgkPMBJUA/c=
 		</data>
 		<key>Modules/DataFramework.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
-		P4mS2jqZZZqIBBQ8ET0KaaVq0HI=
+		sZhw4NhdgM2pw88cx6OmBDTpCKM=
 		</data>
 		<key>Modules/DataFramework.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		xipMqYN9YvSg0xbfmyk5hG4OY2k=
+		7wGW+XiWQLwze+qatJ+l+r6DrEo=
 		</data>
 		<key>Modules/DataFramework.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
@@ -82,11 +50,11 @@
 		</data>
 		<key>Modules/DataFramework.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		xipMqYN9YvSg0xbfmyk5hG4OY2k=
+		7wGW+XiWQLwze+qatJ+l+r6DrEo=
 		</data>
 		<key>Modules/DataFramework.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		hImUQfGhH2mW2KI+k0eTvJLLXT8=
+		7Uh7JNk54GWEWaY6AomrtRGEyJs=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -95,62 +63,6 @@
 	</dict>
 	<key>files2</key>
 	<dict>
-		<key>Frameworks/Realm.framework/CHANGELOG.md</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			qTe/zztvFTmN1nRUOnaH2tR0lYimLCc6B0KzGerrm+g=
-			</data>
-		</dict>
-		<key>Frameworks/Realm.framework/Info.plist</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			eUrSQmtgAAS6MzN84EnTm5euK4IYr/+tl/EDCILl2yM=
-			</data>
-		</dict>
-		<key>Frameworks/Realm.framework/LICENSE</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			aYSSIb+5AFPeITTvXm1UAoe0uYBiMmSS8flvXaaFUks=
-			</data>
-		</dict>
-		<key>Frameworks/Realm.framework/Realm</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			fJpID+bCXojrHhyoIb7DzvddI58suCFSh+MfH6yQgFY=
-			</data>
-		</dict>
-		<key>Frameworks/Realm.framework/_CodeSignature/CodeResources</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			Pph/gkHnBT3/HU8zbmgaFamVvsQnG42idpTG9akccPg=
-			</data>
-		</dict>
-		<key>Frameworks/RealmSwift.framework/Info.plist</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			/uPQGuO/ckLhXp1dID4AB33UZ5A98e3B0gKYrwFiTWw=
-			</data>
-		</dict>
-		<key>Frameworks/RealmSwift.framework/RealmSwift</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			3/m3JYw3qkXX01dGQ0BKYrWVk9h3fbkkt5wKL2ATrPw=
-			</data>
-		</dict>
-		<key>Frameworks/RealmSwift.framework/_CodeSignature/CodeResources</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			HPTC8/ceug6L6o42wUdFQAc/fh9yWutxihpDJ6HNBwg=
-			</data>
-		</dict>
 		<key>Headers/DataFramework-Swift.h</key>
 		<dict>
 			<key>hash2</key>
@@ -169,14 +81,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			boOry9movJKSmlJANWZHajdCAMrLXrZ0VmwzAJLBo1g=
+			2S4/03exkq1THwybG3FWAqY4s+TirfM0AN4SMUjmL0Y=
 			</data>
 		</dict>
 		<key>Modules/DataFramework.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			vmNFHz5558XgaVlRcEOWo9imUU+HFF+wjN8mbS0Ums4=
+			U8rdjEC7siRft35+4S4vgo7BVMI3O/CLrPHFluYcgtg=
 			</data>
 		</dict>
 		<key>Modules/DataFramework.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
@@ -190,28 +102,28 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			vmNFHz5558XgaVlRcEOWo9imUU+HFF+wjN8mbS0Ums4=
+			U8rdjEC7siRft35+4S4vgo7BVMI3O/CLrPHFluYcgtg=
 			</data>
 		</dict>
 		<key>Modules/DataFramework.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			WqIArW2bvg922zIxldNAoSdr1+AToOP5GD5sBpG0DS0=
+			QnKMQwHeAvyqu9YVD/gaLBLHI62jzYi3+t578fM2scI=
 			</data>
 		</dict>
 		<key>Modules/DataFramework.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			boOry9movJKSmlJANWZHajdCAMrLXrZ0VmwzAJLBo1g=
+			2S4/03exkq1THwybG3FWAqY4s+TirfM0AN4SMUjmL0Y=
 			</data>
 		</dict>
 		<key>Modules/DataFramework.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			HCCWn39nE9iB4e9mlusS4IWP/zNF/vqSRB6lq2tczXQ=
+			WHdY28AbfAezdlKMIS2TNqEJvdOwz+q4+Na42kFReko=
 			</data>
 		</dict>
 		<key>Modules/DataFramework.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
@@ -225,14 +137,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			HCCWn39nE9iB4e9mlusS4IWP/zNF/vqSRB6lq2tczXQ=
+			WHdY28AbfAezdlKMIS2TNqEJvdOwz+q4+Na42kFReko=
 			</data>
 		</dict>
 		<key>Modules/DataFramework.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			GJ/3T5w1yKIxazLkcixBYcg0RJnkJo96dcn5uep60s0=
+			hdbj7DGyVpB6NXpSFsNmcbj9ciwhx8c6Mu13lWQdtUk=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
