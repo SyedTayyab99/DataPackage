@@ -22,16 +22,6 @@
         ]
       },
       {
-        "kind": "Import",
-        "name": "Realm",
-        "printedName": "Realm",
-        "declKind": "Import",
-        "moduleName": "DataFramework",
-        "declAttributes": [
-          "ImplementationOnly"
-        ]
-      },
-      {
         "kind": "TypeDecl",
         "name": "VersionLogger",
         "printedName": "VersionLogger",
@@ -197,63 +187,63 @@
     {
       "filePath": "\/Users\/mansoor\/development\/ios\/techtix\/Framework Packaging Testing\/DataFramework\/DataFramework\/DataFramework.swift",
       "kind": "StringLiteral",
-      "offset": 331,
+      "offset": 297,
       "length": 17,
       "value": "\"CFBundleVersion\""
     },
     {
       "filePath": "\/Users\/mansoor\/development\/ios\/techtix\/Framework Packaging Testing\/DataFramework\/DataFramework\/DataFramework.swift",
       "kind": "StringLiteral",
-      "offset": 365,
+      "offset": 331,
       "length": 4,
       "value": "\"--\""
     },
     {
       "filePath": "\/Users\/mansoor\/development\/ios\/techtix\/Framework Packaging Testing\/DataFramework\/DataFramework\/DataFramework.swift",
       "kind": "StringLiteral",
-      "offset": 416,
+      "offset": 382,
       "length": 28,
       "value": "\"CFBundleShortVersionString\""
     },
     {
       "filePath": "\/Users\/mansoor\/development\/ios\/techtix\/Framework Packaging Testing\/DataFramework\/DataFramework\/DataFramework.swift",
       "kind": "StringLiteral",
-      "offset": 461,
+      "offset": 427,
       "length": 4,
       "value": "\"--\""
     },
     {
       "filePath": "\/Users\/mansoor\/development\/ios\/techtix\/Framework Packaging Testing\/DataFramework\/DataFramework\/DataFramework.swift",
       "kind": "StringLiteral",
-      "offset": 480,
+      "offset": 446,
       "length": 55,
       "value": "\"DataFramework => Version: \""
     },
     {
       "filePath": "\/Users\/mansoor\/development\/ios\/techtix\/Framework Packaging Testing\/DataFramework\/DataFramework\/DataFramework.swift",
       "kind": "StringLiteral",
-      "offset": 517,
+      "offset": 483,
       "length": 1,
       "value": "\", Build: \""
     },
     {
       "filePath": "\/Users\/mansoor\/development\/ios\/techtix\/Framework Packaging Testing\/DataFramework\/DataFramework\/DataFramework.swift",
       "kind": "StringLiteral",
-      "offset": 534,
+      "offset": 500,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/mansoor\/development\/ios\/techtix\/Framework Packaging Testing\/DataFramework\/DataFramework\/DataFramework.swift",
       "kind": "StringLiteral",
-      "offset": 560,
+      "offset": 526,
       "length": 29,
       "value": "\"AlamoFire => Version: 5.7.1\""
     },
     {
       "filePath": "\/Users\/mansoor\/development\/ios\/techtix\/Framework Packaging Testing\/DataFramework\/DataFramework\/DataFramework.swift",
       "kind": "StringLiteral",
-      "offset": 1233,
+      "offset": 1199,
       "length": 2,
       "value": "\"\""
     }
