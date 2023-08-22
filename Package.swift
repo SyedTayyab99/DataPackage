@@ -23,7 +23,7 @@ let package = Package(
         .binaryTarget(name: "DataFramework", path: "frameworks/DataFramework.xcframework"),
         .target(
             name: "DataPackage",
-            dependencies: ["DataFramework", .product(name: "RealmSwift", package: "realm-swift")]),
+            dependencies: ["DataFramework", .product(name: "RealmSwift", package: "realm-swift"), .product(name: "Realm", package: "realm-swift")]),
         
     ]
 )
