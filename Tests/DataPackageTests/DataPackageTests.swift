@@ -1,11 +1,20 @@
 import XCTest
 @testable import DataPackage
+import DataFramework
 
 final class DataPackageTests: XCTestCase {
+    
     func testExample() throws {
-        // This is an example of a functional test case.
-        // Use XCTAssert and related functions to verify your tests produce the correct
-        // results.
-        XCTAssertEqual(DataPackage().text, "Hello, World!")
+        
+        let logger = VersionLogger()
+        do {
+            try logger.createDB(schemaVersion: 1)
+            try logger.addUser(name: "User105")
+            let users = logger.getUser()
+            print(users)
+            XCTAssertEqual(users, ["User105","User105","User105"])
+        } catch {
+            print("DB Error: \(error)")
+        }
     }
 }

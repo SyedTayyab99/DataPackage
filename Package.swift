@@ -14,16 +14,20 @@ let package = Package(
     products: [
         .library(
             name: "DataPackage",
-            targets: ["DataPackage"]),
+            targets: ["DataPackage", "DataFramework"]),
     ],
     dependencies: [
-        .package(url: "https://github.com/realm/realm-swift", exact: Version("10.42.0"))
+//        .package(url: "https://github.com/realm/realm-swift", exact: Version("10.42.0"))
     ],
     targets: [
         .binaryTarget(name: "DataFramework", path: "frameworks/DataFramework.xcframework"),
         .target(
             name: "DataPackage",
-            dependencies: ["DataFramework", .product(name: "RealmSwift", package: "realm-swift"), .product(name: "Realm", package: "realm-swift")]),
+            dependencies: ["DataFramework"]),
+        
+            .testTarget(
+                name: "DataPackageTests",
+                dependencies: ["DataPackage"]),
         
     ]
 )

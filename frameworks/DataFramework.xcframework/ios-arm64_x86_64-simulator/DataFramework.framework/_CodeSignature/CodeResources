@@ -18,11 +18,23 @@
 		</data>
 		<key>Frameworks/Realm.framework/Realm</key>
 		<data>
-		skclQhR45D2xzDvxvjcqp2Ijzcg=
+		ZmEU0S+dlpUI9JwEI4I5Q8V25jM=
 		</data>
 		<key>Frameworks/Realm.framework/_CodeSignature/CodeResources</key>
 		<data>
-		UcSOTCfL9mAx3J1vSNZUrrMNwMA=
+		qERyHBx+s1I7vH5fjLzFzWKZ4lc=
+		</data>
+		<key>Frameworks/RealmSwift.framework/Info.plist</key>
+		<data>
+		57jlYwU/mgMn8D9z/uWReO/uL+E=
+		</data>
+		<key>Frameworks/RealmSwift.framework/RealmSwift</key>
+		<data>
+		bDM1Bjnvi9xriBF9rfvOkMXoou8=
+		</data>
+		<key>Frameworks/RealmSwift.framework/_CodeSignature/CodeResources</key>
+		<data>
+		DGWIXrXvF2vqETiwn4Z0k8fRpGw=
 		</data>
 		<key>Headers/DataFramework-Swift.h</key>
 		<data>
@@ -108,14 +120,35 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			0UzVPHRwMl8V2vFTwj9Nqmy4rZOHy+Uk3SvGFBKBR9E=
+			TVGS7HElUIf+6FyINJUjeHtXvMsxbqeAl8bMCis2A+A=
 			</data>
 		</dict>
 		<key>Frameworks/Realm.framework/_CodeSignature/CodeResources</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			kpwjYUC8VQ6sZ5WlRLtwCAhw6Tn0NPlLaNly39yxaik=
+			zH3LMLt13xjJ5RaBxfZB+sfW9auB//+SvKerSKZZ7iI=
+			</data>
+		</dict>
+		<key>Frameworks/RealmSwift.framework/Info.plist</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			MXIWJWQ7k5EIPMlAMQLLPGIJYF9rakFSExhXAMrrO2Y=
+			</data>
+		</dict>
+		<key>Frameworks/RealmSwift.framework/RealmSwift</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			ILsymA86TaQFhpUe61kcuYW7LABrPPY86z29s0abRU4=
+			</data>
+		</dict>
+		<key>Frameworks/RealmSwift.framework/_CodeSignature/CodeResources</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			qsDP05MJz6IDKvVSZyzGkLiO1THVuTW/BDI/3f/PNVw=
 			</data>
 		</dict>
 		<key>Headers/DataFramework-Swift.h</key>
